@@ -1,8 +1,13 @@
 # Imalia
 
-![Imalia Marketing-Site (imalia.de)](images/imalia-web.png)
+**Marketing-Site — imalia.de**
 
-![Imalia SaaS-App (app.imalia.de)](images/imalia-app.png)
+![Imalia Marketing-Site](images/imalia-web.png)
+
+**SaaS-App — app.imalia.de**
+
+![Imalia SaaS-App](images/imalia-app.png)
+
 
 KI-gestützte Exposé-Generierung für Immobilienmakler. Turborepo-Monorepo mit zwei Next.js-Apps.
 
