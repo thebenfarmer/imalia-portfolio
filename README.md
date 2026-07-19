@@ -1,4 +1,4 @@
-# Imalia
+# Imalia — Portfolio
 
 > [!NOTE]
 > **Showcase / Portfolio.** Dieses Repo präsentiert das Imalia-Projekt als Fallstudie. Der Produktions-Code liegt in einem privaten Monorepo — die weiter unten genannten Architektur-, Setup- und Build-Angaben beziehen sich auf dieses Quellprojekt und sind hier nicht klon- oder lauffähig.
